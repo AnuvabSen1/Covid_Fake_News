@@ -5,6 +5,13 @@ from spacy.lang.el.stop_words import STOP_WORDS
 from wordcloud import WordCloud
 from utils import get_page_text
 
+[theme]
+primaryColor = "#d33682"
+backgroundColor = "#002b36"
+secondaryBackgroundColor = "#586e75"
+textColor = "#fafafa"
+font = "sans serif"
+
 st.set_page_config(page_title = " COVID-19 Fake News Detector ")
 
 @st.cache(allow_output_mutation=True)
