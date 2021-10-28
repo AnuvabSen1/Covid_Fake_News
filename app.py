@@ -39,7 +39,7 @@ nlp = get_nlp_model('model')
 desc = "This web app detects fake news written in English.\
         You can either enter the URL of a news article, or paste the text here(works better)."
 
-st.title("🦠 COVID-19 Fake News Detector 🥼🧬")
+st.title(" COVID-19 Fake News Detector ")
 st.markdown(desc)
 st.subheader("Enter the URL/text of a news article written in English")
 select_input = st.radio("Select Input:", ["URL", "Text"])
