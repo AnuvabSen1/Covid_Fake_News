@@ -42,7 +42,7 @@ desc = "This web app detects fake news written in English.\
 st.title(" COVID-19 Fake News Detector ")
 st.markdown(desc)
 st.subheader("Enter the URL/text of a news article written in English")
-st.subheader("The search engine will detect its genuine or fake")
+desc = "The search engine will detect its genuine or fake."
 select_input = st.radio("Select Input:", ["URL", "Text"])
 
 if select_input == "URL":
