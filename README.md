@@ -11,13 +11,9 @@ The proliferation of fake news is a major challenge for modern democratic societ
 ## Installation:
 Run ***pip install -r requirements.txt*** to install the dependencies.
 
+
 ## Usage:
 1. Run the command: ***python train.py*** to train your spacy model.
-
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/115124861-38d76e80-9fe2-11eb-9e2c-e67661a86efc.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124861-38d76e80-9fe2-11eb-9e2c-e67661a86efc.png"/> 
-</kbd>
-
 2. Run the command: ***streamlit run app.py*** to run the webapp. This will launch your webapp in a new tab :
 
 <kbd>
