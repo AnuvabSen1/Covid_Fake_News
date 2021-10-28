@@ -55,4 +55,4 @@ else:
     if st.button("Run"):
         generate_output(text)
 
-st.markdown("<br><br><hr><center>Made with ❤️ by <a href='https://prateekralhan.github.io/'><strong>Prateek Ralhan</strong></a></center><hr>", unsafe_allow_html=True)
+st.markdown("<br><br><hr><center>Made with ❤️ by <a href=''><strong>Amrita Kesh</strong></a></center><hr>", unsafe_allow_html=True)
