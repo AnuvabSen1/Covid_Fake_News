@@ -16,9 +16,7 @@ Run ***pip install -r requirements.txt*** to install the dependencies.
 1. Run the command: ***python train.py*** to train your spacy model.
 2. Run the command: ***streamlit run app.py*** to run the webapp. This will launch your webapp in a new tab :
 
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/115124854-24937180-9fe2-11eb-8c28-bc92857d1dfb.png"/> 
-</kbd>
+
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
