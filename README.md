@@ -3,9 +3,6 @@ The proliferation of fake news is a major challenge for modern democratic societ
 
 ### Live web-app can be found [here.](https://share.streamlit.io/anuvabsen1/covid_fake_news/app.py)
 
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/115123562-46d5c100-9fdb-11eb-9bf7-158b040c7e00.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/115123562-46d5c100-9fdb-11eb-9bf7-158b040c7e00.gif"/> 
-</kbd>
 
 ## Datasets:
 * [COVID Fake News Dataset (Zenodo)](https://zenodo.org/record/4282522)
